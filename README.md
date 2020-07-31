@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Caca Wilda Andika](https://i.ibb.co/3C29qjV/IMG20200704165752.jpg)
+![Caca Wilda Andika](https://i.ibb.co/S5wfrNP/IMG20200704165752-2.jpg)
 
 ### My name Caca Wilda Andika, you can call me Caca. But don't think if i am female 😄 😄 .
 
