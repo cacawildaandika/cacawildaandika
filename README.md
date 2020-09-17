@@ -9,7 +9,7 @@ My skill is software developer focus on Backend Developer 🤾🏻‍♂️
 - [x] NodeJS
 - [x] SQL
 - [x] NoSQL
-- [x] And.. Learning Python and Java - Spring 🚴🏻‍♂️ 
+- [x] And.. Learning Golang and Java - Spring 🚴🏻‍♂️ 
 
 
 🔭  I’m currently working as:
