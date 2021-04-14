@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Caca Wilda Andika](https://i.ibb.co/S5wfrNP/IMG20200704165752-2.jpg)
-
 ### My name Caca Wilda Andika, you can call me Caca. But don't think if i am female 😄 😄 .
 
 My skill is software developer focus on Backend Developer 🤾🏻‍♂️
@@ -13,8 +11,9 @@ My skill is software developer focus on Backend Developer 🤾🏻‍♂️
 
 
 🔭  I’m currently working as:
-- Web Application Developer at [Vertilogic](http://vertilogic.com) 👨🏻‍💻 . 
-- Co-Founder [Nukupay](//nukupay.com) 🤛🏻
+- Web Application Developer at [Vertilogic](//vertilogic.com) 👨🏻‍💻 . 
+- Co-Founder & Backend Developer [Nukupay](//nukupay.com) 🤛🏻
+- Co-Founder & Fullstack Develoepr [Rentalnesia](//rentalnesia.com) 🤛🏻
 
 📫  How to reach me:
 - [Telegram](//t.me/cacawildaandika)
