@@ -11,9 +11,8 @@ My skill is software developer focus on Backend Developer 🤾🏻‍♂️
 
 
 🔭  I’m currently working as:
-- Web Application Developer at [Vertilogic](//vertilogic.com) 👨🏻‍💻 . 
 - Co-Founder & Backend Developer [Nukupay](//nukupay.com) 🤛🏻
-- Co-Founder & Fullstack Developer [Rentalnesia](//rentalnesia.com) 🤛🏻
+- Co-Founder & Fullstack Developer [Rentalnesia](//rentalnesia.com) 👨🏻‍💻
 
 📫  How to reach me:
 - [Telegram](//t.me/cacawildaandika)
