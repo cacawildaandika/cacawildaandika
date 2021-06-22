@@ -3,10 +3,12 @@
 ### My name Caca Wilda Andika, you can call me Caca. But don't think if i am female 😄 😄 .
 
 My skill is software developer focus on Backend Developer 🤾🏻‍♂️
+- [x] PHP
 - [x] Laravel
 - [x] NodeJS
 - [x] SQL
 - [x] NoSQL
+- [x] AWS
 - [x] And.. Learning Golang and Java - Spring 🚴🏻‍♂️ 
 
 
