@@ -3,18 +3,19 @@
 ### My name Caca Wilda Andika, you can call me Caca. But don't think if i am female 😄 😄 .
 
 My skill is software developer focus on Backend Developer 🤾🏻‍♂️
-- [x] PHP
-- [x] Laravel
-- [x] NodeJS
-- [x] SQL
-- [x] NoSQL
+- [x] PHP - Laravel
+- [x] NodeJS - Javscript / Typescript
+- [x] Golang
+- [x] Java - Spring
+- [x] SQL - PostgreSQL - MySQL - MariaDB
+- [x] NoSQL - MongoDB
 - [x] AWS
-- [x] And.. Learning Golang and Java - Spring 🚴🏻‍♂️ 
+- [x] And.. Learning more and more 🚴🏻‍♂️ 
 
 
 🔭  I’m currently working as:
-- Co-Founder & Backend Developer [Nukupay](//nukupay.com) 🤛🏻
-- Co-Founder & Fullstack Developer [Rentalnesia](//rentalnesia.com) 👨🏻‍💻
+- Co-Founder & Backend Engineer [Nukupay](//nukupay.com) 🤛🏻
+- Backend Engineer [GITS](//gits.com) 👨🏻‍💻
 
 📫  How to reach me:
 - [Telegram](//t.me/cacawildaandika)
